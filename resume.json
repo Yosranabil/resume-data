@@ -1,6 +1,6 @@
 {
     "basics": {
-      "name": "Yosra Nabil Shafik",
+      "name": "Yosra Nabil Shafik Mohamed",
       "label": "Flutter Developer | Computer Science Graduate",
       "email": "yosra.nabil.shafik@gmail.com",
       "phone": "+20 01122780876",
@@ -12,12 +12,12 @@
       "summary": "Computer Science graduate with hands-on experience in Flutter app development, AI integration, and cross-functional collaboration. Skilled in building mobile applications, integrating back-end APIs, and applying machine learning techniques to real-world problems.",
       "profiles": [
         {
-          "network": "LinkedIn",
-          "url": "https://www.linkedin.com/in/yosranabil/"
-        },
-        {
           "network": "GitHub",
           "url": "https://github.com/Yosranabil"
+        },
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/yosranabil/"
         },
         {
           "network": "Kaggle",
@@ -54,6 +54,17 @@
     "volunteer": [
       {
         "organization": "ZAKA Ambassadors Egypt",
+        "position": "Machine Learning Trainee",
+        "startDate": "2024-01-01",
+        "endDate": "2024-09-01",
+        "summary": "Participated in hands-on ML workshops and competitions.",
+        "highlights": [
+          "Worked on supervised and unsupervised learning problems.",
+          "Participated in Kaggle competitions applying various ML models."
+        ]
+      },
+     {
+        "organization": "Test",
         "position": "Machine Learning Trainee",
         "startDate": "2024-01-01",
         "endDate": "2024-09-01",
@@ -196,4 +207,5 @@
   }
 
   
+
 
